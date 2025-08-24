@@ -1,0 +1,6 @@
+order_id,date,customer,category,qty,price
+1,2024-01-02,A,Accessories,2,19.9
+2,2024-01-03,B,Electronics,1,199
+3,2024-01-03,B,Accessories,3,12.5
+4,2024-01-05,C,Home,1,35
+5,2024-01-06,A,Home,2,29.9
